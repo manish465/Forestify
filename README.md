@@ -2,4 +2,4 @@
 
 - Press F5 and choose forestify
 - When new VS Code window appears press CTRL + SHIFT + P
-- Selce Hello World
+- Select Hello World
