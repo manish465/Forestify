@@ -9,14 +9,12 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-    "onCommand:forestify.helloWorld"
-  ],
+  "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "forestify.helloWorld",
-      "title": "Hello World"
+      "command": "forestify.runForest",
+      "title": "runForest"
     }]
   },
   "scripts": {
