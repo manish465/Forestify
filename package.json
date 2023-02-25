@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "forestify.runForest",
-        "title": "runForest"
+        "title": "Open Forestify Panel"
       }
     ]
   },
